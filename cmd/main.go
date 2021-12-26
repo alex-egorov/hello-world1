@@ -8,7 +8,7 @@ import (
 )
 
 const PORT = 8080
-const VERSION = "1.0"
+const VERSION = "1.1"
 
 func main() {
 	startServer(handler)
